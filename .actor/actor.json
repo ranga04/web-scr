@@ -1,0 +1,12 @@
+{
+    "actorSpecification": 1,
+    "name": "sheffield-dataset-scraper",
+    "title": "Sheffield Open Data Scraper",
+    "description": "Scrapes metadata from all Sheffield City Council datasets.",
+    "version": "0.0",
+    "meta": {
+        "templateId": "puppeteer-scraper"
+    },
+    "input": "./input_schema.json",
+    "dockerfile": "./Dockerfile"
+}

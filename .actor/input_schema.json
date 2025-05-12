@@ -1,0 +1,14 @@
+{
+    "title": "Input schema for Sheffield dataset scraper",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "startUrl": {
+            "title": "Start URL",
+            "type": "string",
+            "description": "Entry point for dataset crawling.",
+            "default": "https://sheffield-city-council-open-data-sheffieldcc.hub.arcgis.com/search?collection=Dataset"
+        }
+    },
+    "required": ["startUrl"]
+}
