@@ -1,6 +1,6 @@
 {
     "actorSpecification": 1,
-    "name": "sheffield-dataset-scraper",
+    "name": "first",
     "title": "Sheffield Open Data Scraper",
     "description": "Scrapes metadata from all Sheffield City Council datasets.",
     "version": "0.0",
